@@ -1,0 +1,7 @@
+\contentsline {section}{\numberline {1}Components}{1}
+\contentsline {section}{\numberline {2}Circuit Diagram for converting 230V AC to 12V DC }{1}
+\contentsline {section}{\numberline {3}Connections}{1}
+\contentsline {section}{\numberline {4}Functioning}{2}
+\contentsline {subsection}{\numberline {4.1}Ripple Filter}{2}
+\contentsline {subsection}{\numberline {4.2}Voltage Regulator}{2}
+\contentsline {section}{\numberline {5}Circuit for audio amplification}{2}
